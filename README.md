@@ -11,6 +11,12 @@ Persuado code for Finchestic competition, Met-Us-First Receivable Finance Platfo
 ## Methodlogy to integrate Python into Solidity: 
 Use eth-brownie->chainlink python library to deploy python in Solidity
 ## Python library involved:
+1. Scipy
+2. Scikit-image
+3. OpenCV
+4. Tensorflow
+5. Pandas
+...
 ### Main Requirements: 
 All Lenders and Borrowers need to deposit Met-Us-First coins as collateral, in which the coins are published by Initial Coin Offerings
 ## Our Service Process Flow:
