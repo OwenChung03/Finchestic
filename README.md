@@ -14,7 +14,7 @@ Use eth-brownie->chainlink python library to deploy python in Solidity
 ### Main Requirements: 
 All Lenders and Borrowers need to deposit Met-Us-First coins as collateral, in which the coins are published by Initial Coin Offerings
 ## Our Service Process Flow:
-1. Attract borrowers from the market (SMEs users can scan their recipt in our decentralised application)
+1. Attract borrowers from the market (SMEs users can scan their recipt in our decentralised application, or we could make an IOS with Swift)
 2. Our system would analyze the details with NLP (using Scikit-image, OpenCV and Scipy in python)
 3. Call API from TransUnion/ or other credit rating database and conduct statistical analysis by ANOVA and Hypothesis testing with Pingouin Libary
 4. Securitise the loans into a fund with statistical libaraies, based on risk rating measures, using statistical tools
