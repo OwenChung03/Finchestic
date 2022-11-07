@@ -8,10 +8,11 @@
 1. JavaScript (React.JS), 
 2. HTML 
 3. CSS
-# Methodlogy to integrate Python into Solidity: 
+## Methodlogy to integrate Python into Solidity: 
 Use eth-brownie->chainlink python library to deploy python in Solidity
-# Python library involved:
-# Main Requirements: All Lenders and Borrowers need to deposit Met-Us-First coins as collateral, in which the coins are published by Initial Coin Offerings
+## Python library involved:
+### Main Requirements: 
+All Lenders and Borrowers need to deposit Met-Us-First coins as collateral, in which the coins are published by Initial Coin Offerings
 ## Our Service Process Flow:
 1. Attract borrowers from the market (SMEs users can scan their recipt in our decentralised application)
 2. Our system would analyze the details with NLP (using Scikit-image, OpenCV and Scipy in python)
