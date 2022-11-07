@@ -1,9 +1,9 @@
 # Finchestic
-## Finchestic FinTech Competition Receivable Finance Idea By Met-Us-First
-## Persuado code for Finchestic competition, Met-Us-First Receivable Finance Platform powered by NFT
+Finchestic FinTech Competition Receivable Finance Idea By Met-Us-First
+Persuado code for Finchestic competition, Met-Us-First Receivable Finance Platform powered by NFT
 ### Main language used for backend development: 
 1. Python (AI, Image Recognition) 
-2. 2. Solidity (Smart Contract Execution)
+2. Solidity (Smart Contract Execution)
 ### Main language used for frontend development: 
 1. JavaScript (React.JS), 
 2. HTML 
