@@ -8,6 +8,7 @@ Persuado code for Finchestic competition, Met-Us-First Receivable Finance Platfo
 1. JavaScript (React.JS), 
 2. HTML 
 3. CSS
+4. Swift (For app development and app scannning, modified from Apple Developer)
 ## Methodlogy to integrate Python into Solidity: 
 Use eth-brownie->chainlink python library to deploy python in Solidity
 ## Python library involved:
