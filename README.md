@@ -1,4 +1,4 @@
-# Finchestic
+# Met-Us-First Receivable Defi 
 Finchestic FinTech Competition Receivable Finance Idea By Met-Us-First
 Persuado code for Finchestic competition, Met-Us-First Receivable Finance Platform powered by NFT
 ### Main language used for backend development: 
