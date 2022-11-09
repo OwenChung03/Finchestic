@@ -1,0 +1,3 @@
+Our system would analyze the details with NLP (using Scikit-image, OpenCV and Scipy in python)
+Call API from TransUnion idxp API/ or other credit rating database and conduct statistical analysis by ANOVA and Hypothesis testing with Pingouin Libary
+Securitise the loans into a fund with statistical libaraies, based on risk rating measures, using statistical tools
