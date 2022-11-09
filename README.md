@@ -32,3 +32,10 @@ All Lenders and Borrowers need to deposit Met-Us-First coins as collateral, in w
 ## Model Refinement
 1. Collect Relevant Data, such as Average Age of Debt or Days Sales Outstanding, Collection Effectiveness Index, Default Rate to create a local credit rating database
 2. Enhance Fund Formation efficiency by enlarging the loan basis
+
+
+## Sources and Reference
+1. https://programtheblockchain.com/posts/2018/03/06/writing-a-collateralized-loan-contract/
+2. https://github.com/topics/flashloan?l=javascript
+3. https://github.com/Neufund/contracts
+4. https://ethereum.org/en/developers/tutorials/understand-the-erc-20-token-smart-contract/
