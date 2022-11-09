@@ -23,7 +23,7 @@ All Lenders and Borrowers need to deposit Met-Us-First coins as collateral, in w
 ## Our Service Process Flow:
 1. Attract borrowers from the market (SMEs users can scan their recipt in our decentralised application, or we could make an IOS with Swift)
 2. Our system would analyze the details with NLP (using Scikit-image, OpenCV and Scipy in python)
-3. Call API from TransUnion/ or other credit rating database and conduct statistical analysis by ANOVA and Hypothesis testing with Pingouin Libary
+3. Call API from TransUnion idxp API/ or other credit rating database and conduct statistical analysis by ANOVA and Hypothesis testing with Pingouin Libary
 4. Securitise the loans into a fund with statistical libaraies, based on risk rating measures, using statistical tools
 5. Tokenize the funds proportionally, each lender could hold a unique NFT, with the artwork randomly generated with a varaible value NFT, and has a specific face value, similiar to a bond
 6. Use Predictive Machine Learning Models to predict the expected ROI, Sharpe ratio, VaR and Expected Default Rate for the Funds -> Allow Investors to choose their suitable funds (Tensorflow)
@@ -39,3 +39,4 @@ All Lenders and Borrowers need to deposit Met-Us-First coins as collateral, in w
 2. https://github.com/topics/flashloan?l=javascript
 3. https://github.com/Neufund/contracts
 4. https://ethereum.org/en/developers/tutorials/understand-the-erc-20-token-smart-contract/
+5. https://www.transunion.com/product/idxp 
