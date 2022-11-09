@@ -1,3 +1,54 @@
-Our system would analyze the details with NLP (using Scikit-image, OpenCV and Scipy in python)
-Call API from TransUnion idxp API/ or other credit rating database and conduct statistical analysis by ANOVA and Hypothesis testing with Pingouin Libary
-Securitise the loans into a fund with statistical libaraies, based on risk rating measures, using statistical tools
+# Our system would analyze the details with NLP (using Scikit-image, OpenCV and Scipy in python):
+import scikit_image
+import cv2
+df = read.csv("collateral")
+Identify the collateral by scikit_image
+if collaterial is an receipt then
+  word_doc = cv2.read.image("receipt.jpg")
+elif other data type:
+  word_doc = cv2.read.csv("data.csv")
+details_list = ["start_date", "due date", "repayment method", "repayment period", "special_notes", "borrower"]
+json_file = {}
+for word in word_doc then 
+  if word in details_list:
+    json_file.add(details_list[0]:word)
+  else:
+    continue
+
+# Call API from TransUnion idxp API/ or other credit rating database and conduct statistical analysis by ANOVA and Hypothesis testing with Pingouin Libary
+for x in json_file:
+  json_file.transaction[x].borrower.get_credit_rating(url)
+  #if rating > A:
+   Charge lower interest rate
+  #if rating <= B:
+    Charge higher interest rate
+# Machine Learning Model Tranining
+def input_fn(features, labels, training=True, batch_size=256):
+    # Convert the inputs to a Dataset.
+    dataset = tf.data.Dataset.from_tensor_slices((dict(features), labels))
+
+    # Shuffle and repeat if you are in training mode.
+    if training:
+        dataset = dataset.shuffle(1000).repeat()
+    
+    return dataset.batch(batch_size)
+# Train the model to determine the risk of the receipt
+# Build a DNN with 2 hidden layers with 30 and 10 hidden nodes each.
+classifier = tf.estimator.DNNClassifier(
+    feature_columns=my_feature_columns,
+    # Two hidden layers of 30 and 10 nodes respectively.
+    hidden_units=[30, 10],
+    # The model must choose between 3 classes, low risk, medium risk, or high risk
+    n_classes=3)
+# Securitise the loans into a fund with statistical libaraies, based on risk rating measures, using statistical tools
+credit_rating_intval = ["low", "medium", "high"]
+low_risk_fund = {}
+medium_risk_fund = {}
+high_risk_fund = {}
+for doc in dataset:
+  if doc.rating == "low":
+    low_risk_fund.add()
+  else if doc.rating == "medium":
+    medium_risk_fund.add()
+  else:
+    high_risk_fund.add()
